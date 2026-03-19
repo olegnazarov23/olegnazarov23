@@ -1,6 +1,6 @@
 ### Hey, I'm Oleg
 
-Software engineer based in North Georgia, USA. Building things with **Go**, **Python**, and **TypeScript**.
+Software engineer based in Georgia, USA. Building things with **Go**, **Python**, and **TypeScript**.
 
 Interested in networking, cryptography, distributed systems, and developer tools.
 
